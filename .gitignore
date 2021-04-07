@@ -1,0 +1,9 @@
+# Pas besoin de les sauvegarder, on les récupère avec npm install
+node_modules/
+
+# Exclude package-lock.json, etc.
+package-lock.json
+
+# Exclusion des fichiers .css qui seront charger avec sass
+*.css
+*.css.map
